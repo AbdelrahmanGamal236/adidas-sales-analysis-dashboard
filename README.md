@@ -11,7 +11,7 @@ Interactive Power BI dashboard analyzing $120M Adidas sales data
 - **DAX Measures**: Total Sales, Profit Margin %, Sales YoY Growth %, Distinct Retailers
 
 ## 🛠️ Tech Stack
-- **Power BI Desktop** | DAX | Bookmarks | Slicers
+- **Power BI Desktop** | DAX | Slicers
 
 ## 📈 Business Insights
 - Identified top-performing regions (West/Northeast) and products (Men's Streetwear)
@@ -23,5 +23,12 @@ Interactive Power BI dashboard analyzing $120M Adidas sales data
 2. Open in **Power BI Desktop** (latest version)
 3. Interact with slicers/bookmarks to explore
 ---
-⭐ **Star this repo** | 👨‍💻 **Built by [Abdelrahman Gamal]** | 📧 **[Abdelrahman.Gamal.Ai@gmail.com]**
+## 📞 Contact
+Have questions about the dashboard or want to collaborate?  
+**Email**: Abdelrahman.Gamal.Ai@gmail.com | **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdelrahman-gamal236/) | **whatsapp**: +201029744194
+
+---
+⭐ Star if helpful! 👨‍💻 Built by **[Abdelrahman Gamal]**
+
+
 
