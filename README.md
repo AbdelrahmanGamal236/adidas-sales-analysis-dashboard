@@ -23,5 +23,5 @@ Interactive Power BI dashboard analyzing $120M Adidas sales data
 2. Open in **Power BI Desktop** (latest version)
 3. Interact with slicers/bookmarks to explore
 ---
-⭐ **Star this repo** | 👨‍💻 **Built by [Your Name]** | 📧 **[your.email@example.com]**
+⭐ **Star this repo** | 👨‍💻 **Built by [Abdelrahman Gamal]** | 📧 **[Abdelrahman.Gamal.Ai@gmail.com]**
 
