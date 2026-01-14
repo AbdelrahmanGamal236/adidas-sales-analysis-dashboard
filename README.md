@@ -1,6 +1,6 @@
 # Adidas Sales Analytics Dashboard
 Interactive Power BI dashboard analyzing $120M Adidas sales data
-![Overview](images/overview adidas1.1.png)
+![Overview](images/overview_adidas.jpg)
 
 **Developed an interactive Power BI dashboard analyzing Adidas sales data across regions, products, and retailers, featuring KPIs like $120M total sales, 33M units sold, and 3.9% profit margin.**
 
